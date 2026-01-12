@@ -1,5 +1,3 @@
-
-````md
 # DP-FL ICU Mortality Prediction (MIMIC-IV)
 
 Differentially Private Federated Learning (DP-FL) experiments for ICU mortality prediction using the MIMIC-IV dataset.
