@@ -37,8 +37,6 @@ pip install -r requirements.txt
 2. Download the dataset locally (or configure access in your environment).
 3. Set paths/credentials in the notebooks as indicated in `data/README.md`.
 
-No raw data, patient-level extracts, or derived datasets should be pushed to GitHub.
-
 ## Reproducibility steps
 
 1. Cohort construction:
