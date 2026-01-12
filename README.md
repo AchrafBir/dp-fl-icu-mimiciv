@@ -69,8 +69,6 @@ The complete thesis report is available at:
 
 * Achraf Birhrissen, "Differentially Private Federated Learning for ICU Mortality Prediction on MIMIC-IV", Master Thesis, Ibn Tofail University, 2025.
 
-A `CITATION.cff` file can be added for GitHub citation support.
-
 ## License
 
 * Code: MIT License (see `LICENSE`)
