@@ -18,8 +18,6 @@ Important: MIMIC-IV data is not included in this repository. You must obtain acc
   - README.md: instructions to configure MIMIC-IV locally (no data committed)
 - outputs/ (gitignored)
   - local results (metrics, figures, logs)
-- src/ (optional)
-  - reusable python modules extracted from notebooks
 
 ## Requirements
 
