@@ -1,4 +1,3 @@
-Below is a ready-to-commit `README.md` for your thesis repository (`dp-fl-icu-mimiciv`). Replace bracketed placeholders if needed.
 
 ````md
 # DP-FL ICU Mortality Prediction (MIMIC-IV)
@@ -60,12 +59,6 @@ Recommended: run multiple seeds and save aggregated metrics.
 
 ## Notes on privacy and artifacts
 
-Do not commit:
-
-* any MIMIC-IV files or extracts (CSV/Parquet/NPZ/PKL)
-* patient/admission/stay identifiers
-* logs containing sensitive identifiers
-
 This repository includes only code and documentation.
 
 ## Thesis report
@@ -75,8 +68,6 @@ The complete thesis report is available at:
 * `thesis/memoire.pdf`
 
 ## Citation
-
-If you use this repository, please cite:
 
 * Achraf Birhrissen, "Differentially Private Federated Learning for ICU Mortality Prediction on MIMIC-IV", Master Thesis, Ibn Tofail University, 2025.
 
